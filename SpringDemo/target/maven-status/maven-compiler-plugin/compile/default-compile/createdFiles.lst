@@ -1,0 +1,6 @@
+com\berat\proje\boot\entities\Product.class
+com\berat\proje\boot\entities\User.class
+com\berat\proje\boot\entities\Category.class
+com\berat\proje\boot\repository\UserRepository.class
+com\berat\proje\boot\Application.class
+com\berat\proje\boot\controller\MainController.class
